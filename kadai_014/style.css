@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 html {
     font-size: 20px;
     text-align: center;
@@ -26,33 +25,4 @@ h1 {
 
 #basic p {
     font-weight: bold;
-=======
-html {
-    font-size: 20px;
-    text-align: center;
-}
-
-body {
-    font-family: "Arial", "Meiryo", sans-serif;
-}
-
-h1 {
-    font-size: 2rem;
-    font-family: "Josefin Sans", sans-serif;
-    letter-spacing: 1.2em;
-    text-shadow: 2px 2px 3px gray;
-    border-bottom: solid 3px gray;
-}
-
-.skyblue {
-    color: skyblue;
-}
-
-.pink {
-    color: rgb(255, 192, 203);
-}
-
-.text-bold {
-    font-weight: bold;
->>>>>>> 587653f69b355faf412356e2f09a2bc396e1394e
 }
